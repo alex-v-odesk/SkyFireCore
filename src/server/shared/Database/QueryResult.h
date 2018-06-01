@@ -94,7 +94,7 @@ class PreparedResultSet
         MYSQL_STMT* m_stmt;
         MYSQL_RES* m_res;
 
-        bool* m_isNull;
+        bool m_isNull;
         unsigned long* m_length;
 
         void FreeBindBuffer();
