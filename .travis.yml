@@ -26,7 +26,7 @@ branches:
 
 before_install:
   - sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y
-  - sudo add-apt-repository ppa:lars-tangvald/mysql-8.0
+  - sudo add-apt-repository ppa:lars-tangvald/mysql-8.0 -y
   - sudo apt-get update
   - sudo rm -rf /var/lib/dpkg/lock
   - sudo apt-get install gcc-6 g++-6
