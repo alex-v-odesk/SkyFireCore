@@ -1,5 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/ProjectSkyfire/SkyFire.548.png?label=ready&title=Ready)](https://waffle.io/ProjectSkyfire/SkyFire.548) [![Insight.io](https://insight.io/repoBadge/github.com/ProjectSkyfire/SkyFire.548)](https://insight.io/github.com/ProjectSkyfire/SkyFire.548)
-
 # ![logo](https://abload.de/img/15_14_skyfire_logoqyj68.png)
 
 ## Project Information
@@ -28,7 +26,7 @@ For further information on the SkyFire project, please visit our project website
 [SkyFire-Community-Tools](https://github.com/ProjectSkyfire/SkyFire-Community-Tools).
 
 ## Build Status
-# [![Build Status](https://travis-ci.org/ProjectSkyfire/SkyFire.548.png)](https://travis-ci.org/ProjectSkyfire/SkyFire.548)
+# [![Build Status](https://travis-ci.com/SkyFireEmu/SkyFireCore.svg?branch=master)](https://travis-ci.com/SkyFireEmu/SkyFireCore)
 
 ## Requirements
 + Platform: Linux, Windows or Mac
@@ -50,12 +48,12 @@ Detailed installation guides are available in the wiki for
 
 ## Reporting issues
 Please use the search function before you report issues.
-[SkyFire Issue Tracker](https://github.com/ProjectSkyfire/SkyFire.548/issues).
+[SkyFireCore Issue Tracker](https://github.com/SkyFireEmu/SkyFireCore/issues).
 
 ## Submitting fixes
 Fixes are submitted as pull requests via Github.
 
-[SkyFire Pull Request](https://github.com/ProjectSkyfire/SkyFire.548/pulls)
+[SkyFireCore Pull Request](https://github.com/SkyFireEmu/SkyFireCore/pulls)
 
 ## Copyright
 License: GPL 3.0
@@ -67,10 +65,3 @@ Read file [THANKS](THANKS.md)
 
 ## To-Do List
 Read File [TO-DO](TODO.md)
-
-## Links
-Forum [https://forum.projectskyfire.org/](https://forum.projectskyfire.org/)
-
-Database [https://forum.projectskyfire.org/index.php?/files/](https://forum.projectskyfire.org/index.php?/files/)
-
-Wiki [http://wiki.projectskyfire.org](http://wiki.projectskyfire.org)
